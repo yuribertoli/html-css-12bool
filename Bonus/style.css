@@ -1,7 +1,7 @@
 .pixel {
     height: 17.5334px;
     background-color: transparent;
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 body {
@@ -16,7 +16,7 @@ iframe {
     z-index: -1;
     top: 0;
     left: 0;
-    transform: scale(2);
+    transform: scale(3.5);
 }
 
 .row {
