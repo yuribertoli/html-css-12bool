@@ -5,7 +5,6 @@
 
 .prova .row {
     min-height: 50px;
-    background-color: cadetblue;
 }
 
 .prova .box {
@@ -18,10 +17,19 @@
 }
 
 .prova .nested {
-    background-color: darkolivegreen;
+    background-color: rgb(182, 179, 31);
     color: white;
     text-align: center;
     border: 1px solid black;
     min-height: 25px;
     padding: 10px;
+}
+
+.prova .big {
+    padding: 10px;
+    border: 1px solid burlywood;
+    background-color: darkmagenta;
+    color: white;
+    text-align: center;
+    min-height: 80px;
 }

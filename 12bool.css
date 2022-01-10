@@ -5,12 +5,6 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 1170px;
-    max-width: 100%;
-    margin: 0 auto;
-}
-
 .container-fluid {
     width: 100%;
     max-width: 100%;
@@ -123,4 +117,47 @@
     Fine regole colonne (COL-XS)
 ---------------------------------*/
 
+
+
+/* ------------------------------
+    Inizio regole ALIGNMENTS
+-------------------------------*/
+.j-left {
+    justify-content: start;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.j-right {
+    justify-content: end;
+}
+
+.a-top {
+    align-items: flex-start;
+}
+
+.a-middle {
+    align-items: center;
+}
+
+.a-bottom {
+    align-items: flex-end;
+}
+
+.as-top {
+    align-self: flex-start;
+}
+
+.as-middle {
+    align-self: center;
+}
+
+.as-bottom {
+    align-self: flex-end;
+}
+/* ------------------------------
+    Fine regole ALIGNMENTS
+-------------------------------*/
 
