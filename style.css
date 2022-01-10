@@ -7,3 +7,12 @@
     min-height: 100px;
     background-color: cadetblue;
 }
+
+.prova .box {
+    padding: 10px;
+    min-height: 75px;
+    border: 1px solid burlywood;
+    background-color: darkmagenta;
+    color: white;
+    text-align: center;
+}
