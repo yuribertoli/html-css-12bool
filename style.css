@@ -1,0 +1,9 @@
+.prova .container, .prova .container-fluid {
+    min-height: 100px;
+    background-color: blue;
+} 
+
+.prova .row {
+    min-height: 100px;
+    background-color: cadetblue;
+}

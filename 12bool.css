@@ -1,0 +1,77 @@
+/* Inizio regole generali */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1170px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.container-fluid {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+/* Fine regole generali */
+
+/* -----------------------
+    Inizio regole COL-XS
+------------------------*/
+/* -----------------------
+    Fine regole COL-XS
+------------------------*/
+
+
+
+/* -----------------------
+    Inizio regole COL-SM
+------------------------*/
+/* -----------------------
+    Fine regole COL-SM
+------------------------*/
+
+
+
+/* -----------------------
+    Inizio regole COL-MD
+------------------------*/
+/* -----------------------
+    Fine regole COL-MD
+------------------------*/
+
+
+
+/* -----------------------
+    Inizio regole COL-LG
+------------------------*/
+/* -----------------------
+    Fine regole COL-LG
+------------------------*/
+
+
+
+/* -----------------------
+    Inizio regole COL-XL
+------------------------*/
+/* -----------------------
+    Fine regole COL-XL
+------------------------*/
+
+
+
+/* -----------------------
+    Inizio regole COL-XXL
+------------------------*/
+/* -----------------------
+    Fine regole COL-XXL
+------------------------*/
