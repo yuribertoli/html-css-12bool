@@ -77,37 +77,37 @@
 }
 
     /* Inizio regole OFFSET-XS */
-.col-offset-xs-1 {
+.col-xs-offset-1 {
     margin-left: calc((100% / 12) * 1);
 }
-.col-offset-xs-2 {
+.col-xs-offset-2 {
     margin-left: calc((100% / 12) * 2);
 }
-.col-offset-xs-3 {
+.col-xs-offset-3 {
     margin-left: calc((100% / 12) * 3);
 }
-.col-offset-xs-4 {
+.col-xs-offset-4 {
     margin-left: calc((100% / 12) * 4);
 }
-.col-offset-xs-5 {
+.col-xs-offset-5 {
     margin-left: calc((100% / 12) * 5);
 }
-.col-offset-xs-6 {
+.col-xs-offset-6 {
     margin-left: calc((100% / 12) * 6);
 }
-.col-offset-xs-7 {
+.col-xs-offset-7 {
     margin-left: calc((100% / 12) * 7);
 }
-.col-offset-xs-8 {
+.col-xs-offset-8 {
     margin-left: calc((100% / 12) * 8);
 }
-.col-offset-xs-9 {
+.col-xs-offset-9 {
     margin-left: calc((100% / 12) * 9);
 }
-.col-offset-xs-10 {
+.col-xs-offset-10 {
     margin-left: calc((100% / 12) * 10);
 }
-.col-offset-xs-11 {
+.col-xs-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
     /* Fine regole OFFSET-XS */
@@ -116,46 +116,3 @@
 ------------------------*/
 
 
-
-/* -----------------------
-    Inizio regole COL-SM
-------------------------*/
-/* -----------------------
-    Fine regole COL-SM
-------------------------*/
-
-
-
-/* -----------------------
-    Inizio regole COL-MD
-------------------------*/
-/* -----------------------
-    Fine regole COL-MD
-------------------------*/
-
-
-
-/* -----------------------
-    Inizio regole COL-LG
-------------------------*/
-/* -----------------------
-    Fine regole COL-LG
-------------------------*/
-
-
-
-/* -----------------------
-    Inizio regole COL-XL
-------------------------*/
-/* -----------------------
-    Fine regole COL-XL
-------------------------*/
-
-
-
-/* -----------------------
-    Inizio regole COL-XXL
-------------------------*/
-/* -----------------------
-    Fine regole COL-XXL
-------------------------*/
