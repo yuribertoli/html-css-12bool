@@ -86,6 +86,13 @@
         margin-left: calc((100% / 12) * 11);
     }
         /* Fine regole OFFSET-SM */
+    .col-sm-hide {
+        display: none;
+    }
+    
+    .col-sm-show {
+        display: block;
+    }
 }
 /* -----------------------
     Fine regole COL-SM
@@ -181,6 +188,13 @@
         margin-left: calc((100% / 12) * 11);
     }
         /* Fine regole OFFSET-MD */
+    .col-md-hide {
+        display: none;
+    }
+    
+    .col-md-show {
+        display: block;
+    }
 }
 /* -----------------------
     Fine regole COL-MD
@@ -276,6 +290,13 @@
         margin-left: calc((100% / 12) * 11);
     }
         /* Fine regole OFFSET-LG */
+    .col-lg-hide {
+        display: none;
+    }
+    
+    .col-lg-show {
+        display: block;
+    }
 }
 /* -----------------------
     Fine regole COL-LG
@@ -371,6 +392,13 @@
         margin-left: calc((100% / 12) * 11);
     }
         /* Fine regole OFFSET-XL */
+    .col-xl-hide {
+        display: none;
+    }
+    
+    .col-xl-show {
+        display: block;
+    }
 }
 /* -----------------------
     Fine regole COL-XL
@@ -466,6 +494,13 @@
         margin-left: calc((100% / 12) * 11);
     }
         /* Fine regole OFFSET-XXL */
+    .col-xxl-hide {
+        display: none;
+    }
+    
+    .col-xxl-show {
+        display: block;
+    }
 }
 /* -----------------------
     Fine regole COL-XXL

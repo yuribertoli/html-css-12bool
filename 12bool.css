@@ -24,95 +24,103 @@
 }
 /* Fine regole generali */
 
-/* -----------------------
-    Inizio regole COL-XS
-------------------------*/
-.col-xs-1 {
+/* ---------------------------------
+    Inizio regole colonne (COL-XS)
+----------------------------------*/
+.col-1 {
     flex-basis: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);
 }
-.col-xs-2 {
+.col-2 {
     flex-basis: calc((100% / 12) * 2);
     max-width: calc((100% / 12) * 2);
 }
-.col-xs-3 {
+.col-3 {
     flex-basis: calc((100% / 12) * 3);
     max-width: calc((100% / 12) * 3);
 }
-.col-xs-4 {
+.col-4 {
     flex-basis: calc((100% / 12) * 4);
     max-width: calc((100% / 12) * 4);
 }
-.col-xs-5 {
+.col-5 {
     flex-basis: calc((100% / 12) * 5);
     max-width: calc((100% / 12) * 5);
 }
-.col-xs-6 {
+.col-6 {
     flex-basis: calc((100% / 12) * 6);
     max-width: calc((100% / 12) * 6);
 }
-.col-xs-7 {
+.col-7 {
     flex-basis: calc((100% / 12) * 7);
     max-width: calc((100% / 12) * 7);
 }
-.col-xs-8 {
+.col-8 {
     flex-basis: calc((100% / 12) * 8);
     max-width: calc((100% / 12) * 8);
 }
-.col-xs-9 {
+.col-9 {
     flex-basis: calc((100% / 12) * 9);
     max-width: calc((100% / 12) * 9);
 }
-.col-xs-10 {
+.col-10 {
     flex-basis: calc((100% / 12) * 10);
     max-width: calc((100% / 12) * 10);
 }
-.col-xs-11 {
+.col-11 {
     flex-basis: calc((100% / 12) * 11);
     max-width: calc((100% / 12) * 11);
 }
-.col-xs-12 {
+.col-12 {
     flex-basis: calc((100% / 12) * 12);
     max-width: calc((100% / 12) * 12);
 }
 
-    /* Inizio regole OFFSET-XS */
-.col-xs-offset-1 {
+    /* Inizio regole OFFSET */
+.col-offset-1 {
     margin-left: calc((100% / 12) * 1);
 }
-.col-xs-offset-2 {
+.col-offset-2 {
     margin-left: calc((100% / 12) * 2);
 }
-.col-xs-offset-3 {
+.col-offset-3 {
     margin-left: calc((100% / 12) * 3);
 }
-.col-xs-offset-4 {
+.col-offset-4 {
     margin-left: calc((100% / 12) * 4);
 }
-.col-xs-offset-5 {
+.col-offset-5 {
     margin-left: calc((100% / 12) * 5);
 }
-.col-xs-offset-6 {
+.col-offset-6 {
     margin-left: calc((100% / 12) * 6);
 }
-.col-xs-offset-7 {
+.col-offset-7 {
     margin-left: calc((100% / 12) * 7);
 }
-.col-xs-offset-8 {
+.col-offset-8 {
     margin-left: calc((100% / 12) * 8);
 }
-.col-xs-offset-9 {
+.col-offset-9 {
     margin-left: calc((100% / 12) * 9);
 }
-.col-xs-offset-10 {
+.col-offset-10 {
     margin-left: calc((100% / 12) * 10);
 }
-.col-xs-offset-11 {
+.col-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
-    /* Fine regole OFFSET-XS */
-/* -----------------------
-    Fine regole COL-XS
-------------------------*/
+    /* Fine regole OFFSET */
+
+.col-hide {
+    display: none;
+}
+
+.col-show {
+    display: block;
+}
+/* --------------------------------
+    Fine regole colonne (COL-XS)
+---------------------------------*/
 
 
