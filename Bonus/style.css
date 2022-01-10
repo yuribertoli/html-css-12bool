@@ -3,3 +3,28 @@
     background-color: transparent;
     border: 1px solid black;
 }
+
+body {
+    width: 100%;
+    height: calc(17.5334px * 32);
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    transform: scale(2);
+}
+
+.row {
+    position: relative;
+    z-index: 3;
+}
+
+.riga32 {
+    padding-bottom: 5px;
+}
+
