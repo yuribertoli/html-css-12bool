@@ -1,0 +1,10 @@
+.pixel {
+    height: 20px;
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.brick {
+    height: 20px;
+    background-color: transparent;
+}
