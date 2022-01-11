@@ -8,28 +8,71 @@
 }
 
 body {
-    width: 100%;
-    height: calc(17.5334px * 32);
+    background-color: black;
 }
 
-.iframe {
-    height: 500px;
-    width: 100%;
-    position: absolute;
-    z-index: -1;
-    top: -162px;
-    left: 3px;
-    transform: scale(0.409);
-    object-fit: contain;
+.riga16, .riga17 {
+    background-color: rgb(162, 0, 255);
 }
 
-.row {
-    position: relative;
-    z-index: 3;
+.riga15, .riga18 {
+    background-color: rgb(152, 4, 235);
 }
 
-.riga32 {
-    padding-bottom: 5px;
+.riga14, .riga19 {
+    background-color: rgb(142, 0, 215);
+}
+
+.riga13, .riga20 {
+    background-color: rgb(132, 0, 195);
+}
+
+.riga12, .riga21 {
+    background-color: rgb(122, 0, 175);
+}
+
+.riga11, .riga22 {
+    background-color: rgb(112, 0, 155);
+}
+
+.riga10, .riga23 {
+    background-color: rgb(102, 0, 135);
+}
+
+.riga9, .riga24 {
+    background-color: rgb(92, 0, 115);
+}
+
+.riga8, .riga25 {
+    background-color: rgb(82, 0, 95);
+}
+
+.riga7, .riga26 {
+    background-color: rgb(72, 0, 75);
+}
+
+.riga6, .riga27 {
+    background-color: rgb(62, 0, 65);
+}
+
+.riga5, .riga28 {
+    background-color: rgb(52, 0, 55);
+}
+
+.riga4, .riga29 {
+    background-color: rgb(42, 0, 45);
+}
+
+.riga3, .riga30 {
+    background-color: rgb(32, 0, 35);
+}
+
+.riga2, .riga31 {
+    background-color: rgb(22, 0, 25);
+}
+
+.riga1, .riga32 {
+    background-color: rgb(12, 0, 15);
 }
 
 
